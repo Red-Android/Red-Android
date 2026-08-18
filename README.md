@@ -5,7 +5,7 @@ Software Developer passionate about building impactful tools and web application
 - 🔭 Currently working on: 33W
 - 🌱 Learning: Web Development
 - 💬 Ask me about: C, Python
-- 📫 Reach me: animeshkumar.cont@gmail.com or [LinkedIn](https://www.linkedin.com/in/animesh-kumar-82174a410/)
+- 📫 Reach me: [Gmail]animeshkumar.cont@gmail.com or [LinkedIn](https://www.linkedin.com/in/animesh-kumar-82174a410/)
 
 ---
 
