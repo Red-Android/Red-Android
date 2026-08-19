@@ -1,4 +1,4 @@
-# Hi there, I'm Animesh aka Red-Android 😋
+# Hi there, I'm Animesh  😋
 
 Software Developer passionate about building impactful tools and web applications.
 
