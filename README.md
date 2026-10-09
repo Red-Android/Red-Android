@@ -5,7 +5,7 @@
   <h1>Hi there, I'm Animesh 😋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Passionate+about+Impactful+Tools;Building+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Electronics+%26+IoT+Enthusiast;Building+Impactful+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,14 +23,14 @@
       <h3> 👨🏻‍💻 About Me </h3>
       <ul>
         <li>🔭 Currently working on <b>33W</b></li>
-        <li>🌱 Learning all about <b>Web Development</b></li>
-        <li>💬 Ask me about <b>C, Python, and React</b></li>
+        <li>🌱 Learning all about <b>Web Development & Hardware Integration</b></li>
+        <li>💬 Ask me about <b>C, Python, and Embedded Systems</b></li>
         <li>📫 Reach out to me: <a href="mailto:animeshkumar.cont@gmail.com"><b>animeshkumar.cont@gmail.com</b></a></li>
       </ul>
     </td>
     <td width="50%" align="center" style="border: none;">
-      <!-- Cool Animated Coding GIF -->
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="animated coding gif" />
+      <!-- Electronics/Software Hybrid GIF (Pulsing Microchip/Circuit) -->
+      <img src="https://i.pinimg.com/originals/f3/f9/5a/f3f95a4325a691b61c944360e22703f8.gif" width="300" alt="Hardware and Code GIF" style="border-radius: 15px;" />
     </td>
   </tr>
 </table>
@@ -39,25 +39,31 @@
 
 <!-- Tech Stack Section -->
 <h3 align="center"> 🛠️ Tech Stack </h3>
+<h4 align="center"> Software & Web </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+<h4 align="center"> Hardware & Low-Level </h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
+</p>
+
 <br/>
 
-<!-- GitHub Stats Section (Optional but highly recommended for aesthetics) -->
+<!-- GitHub Stats Section -->
 <h3 align="center"> 📈 GitHub Stats </h3>
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub handle -->
   <img src="https://github-readme-stats.vercel.app/api?username=Red-Android&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Red-Android&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
